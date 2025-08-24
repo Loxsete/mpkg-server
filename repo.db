@@ -82,6 +82,6 @@ size=334201
 name=nasm
 version=2.16.03
 arch=x86_64
-description=x86_64
-depends=Netwide Assembler
-size=1944189
+description=Netwide Assembler
+depends:no depends
+size: 1944189
