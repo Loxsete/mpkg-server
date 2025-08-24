@@ -79,6 +79,7 @@ arch=x86_64
 description=Squashfs tools
 depends=glibc
 size=334201
+name=nasm
 version=2.16.03
 arch=x86_64
 description=x86_64
